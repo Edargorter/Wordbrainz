@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from sys import argv
 
 def main(filename):
@@ -18,7 +19,7 @@ def main(filename):
                 continue
 
     for letter_file in letters:
-        letters_file.close()
+        letter_file.close()
 
 if __name__ == "__main__":
     if len(argv) < 2:

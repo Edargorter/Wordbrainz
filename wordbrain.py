@@ -134,8 +134,9 @@ if __name__ == "__main__":
             letter_string += file_data[i].rstrip()
 
         sizes = [int(i) for i in file_data[num_rows + 1].rstrip().split()]
-    except:
+    except Exception as e:
         print("Could not open puzzle file...\n")
+        print(e)
         exit(1)
 
     sizes = list(dict.fromkeys(sizes))
