@@ -1,5 +1,13 @@
 #!/usr/bin/env python3
-#Wordbrain search solver using word lists in the English language
+
+'''
+
+Author: Zachary Bowditch (Edargorter)
+Date: 2017
+Description: Wordbrain search solver using word lists in the English language
+
+
+'''
 
 import argparse
 
@@ -48,7 +56,7 @@ def search(fd, length, word, curr_row, curr_col):
         if not (word in words):
             if word in word_list:
                 print(word)
-                fd.write("{}\n".format(word))
+                fd.write("{} {}\n".format(word, len(word)))
                 words.append(word)
     for move in moves:
         row = curr_row + move[0]

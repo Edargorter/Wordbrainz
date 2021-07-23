@@ -1,66 +1,89 @@
-nightie
-dialog
-tinier
-tiring
-ignite
-inertia
-zenith
-impinge
-impinged
-enmity
-algeria
-nigeria
-riping
-ringer
-ringed
-mining
-loader
-lunged
-gigolo
-georgia
-invite
-inveigh
-pitying
-prairie
-priming
-privet
-imprint
-tigris
-timing
-triads
-tripoli
-trying
-dyeing
-drying
-groats
-griping
-groping
-ginger
-rapist
-apriori
-aorist
-airier
-airing
-aiming
-spirit
-sirloin
-strait
-stroll
-stripier
-striping
-strength
-stymie
-derail
-railroad
-reload
-relaid
-roping
-loping
-origin
-priority
-parity
-pastry
-pairing
-patrol
-gaoler
-gaoled
+citizen 7
+citing 6
+nuttier 7
+timers 6
+tuning 6
+cinema 6
+cinemas 7
+cutting 7
+inciting 8
+inertia 7
+pidgin 6
+pigment 7
+pinion 6
+pinions 7
+engine 6
+ending 6
+enticing 8
+merits 6
+mending 7
+minding 7
+miners 6
+mincing 7
+domino 6
+intend 6
+intent 6
+insist 6
+insists 7
+einstein 8
+remind 6
+rending 7
+toasts 6
+toning 6
+terming 7
+tending 7
+tendon 6
+tendons 7
+nomads 6
+naming 6
+ointment 8
+monster 7
+moaning 7
+mooning 7
+meanie 6
+meaning 7
+masons 6
+mantis 6
+mantissa 8
+minster 7
+soaped 6
+sniping 7
+stoning 7
+assist 6
+assists 7
+anoint 6
+anodes 6
+adepts 6
+airmen 6
+sister 6
+sanding 7
+demons 6
+demand 6
+dement 6
+dooming 7
+daemon 6
+daemons 7
+handing 7
+headon 6
+shamed 6
+shaming 7
+schema 6
+schemas 7
+scheming 8
+scheme 6
+season 6
+seasons 7
+seamen 6
+deposit 7
+deposits 8
+depots 6
+posits 6
+poster 6
+postmen 7
+poison 6
+poisons 7
+chassis 7
+chants 6
+chanter 7
+shades 6
+shames 6
