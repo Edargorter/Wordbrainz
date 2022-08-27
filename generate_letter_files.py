@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 from sys import argv
 
+directory="Letters/"
+
 def main(filename):
     letters = []
 
@@ -12,7 +14,7 @@ def main(filename):
             try:
                 word = words.readline()
                 print(word)
-                with open(word[0].lower() + ".txt", "a+") as word_file:
+                with open(directory + word[0].lower() + ".txt", "a+") as word_file:
                     word_file.write(word)
             except Exception:
                 print(Exception)
